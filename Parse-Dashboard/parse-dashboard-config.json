@@ -1,6 +1,6 @@
 {
   "apps": [{
-    "serverURL": "",
+    "serverURL": "https://firm-amp-133616.appspot.com/",
     "appId": "app",
     "masterKey": "kuku1688",
     "appName": "",
@@ -12,5 +12,5 @@
        "pass":"john5188",
        "apps": [{"appId": "app"}]
      }  ]
-  "iconsFolder": "icons"
+  "iconsFolder": ["icons"]
 }
