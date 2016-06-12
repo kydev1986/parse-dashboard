@@ -1,10 +1,16 @@
 {
   "apps": [{
     "serverURL": "",
-    "appId": "",
-    "masterKey": "",
+    "appId": "app",
+    "masterKey": "kuku1688",
     "appName": "",
     "iconName": ""
   }],
+  "users": [
+     {
+       "user":"john",
+       "pass":"john5188",
+       "apps": [{"appId": "app"}]
+     }  ]
   "iconsFolder": "icons"
 }
