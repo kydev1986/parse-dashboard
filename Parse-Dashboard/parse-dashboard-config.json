@@ -11,6 +11,6 @@
        "user":"john",
        "pass":"john5188",
        "apps": [{"appId": "app"}]
-     }  ]
-  "iconsFolder": ["icons"]
+     }  ],
+  "iconsFolder": "icons"
 }
